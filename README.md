@@ -1,7 +1,5 @@
 ## MNIST Digit Recognizer with CNN
 
-![MNIST Digit Recognizer with CNN](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FSamples-from-the-MNIST-digit-recognition-data-set-Here-a-black-pixel-corresponds-to-an_fig1_200744481&psig=AOvVaw1JK2tqgsNpSn8xzytwrqv2&ust=1691036990564000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjZ6eqRvYADFQAAAAAdAAAAABAE)
-
 ## Description
 
 This project is a digit recognizer that uses Convolutional Neural Networks (CNNs) to classify handwritten digits from the famous MNIST dataset. The MNIST dataset consists of 28x28 pixel grayscale images of handwritten digits (0 to 9) and is a common benchmark dataset for machine learning tasks.
